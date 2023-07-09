@@ -1,0 +1,93 @@
+.content{
+    grid-template-columns: 3fr 1fr;
+    display: grid;
+    background-color: #38383d;
+    background-image: url(https://img.freepik.com/free-photo/abstract-blur-shopping-mall_1203-8822.jpg?w=826&t=st=1688895708~exp=1688896308~hmac=9f0827c1a9724d094f340f511d3153ab0ec199f38cbe7c2e03548320d2a98b14);
+    height: 499px;
+  
+  }
+
+.intro{
+  margin-top:75px;
+  /*display:block;*/
+  /*align-items: center;*/
+}
+
+.heading{
+  /*color:rgb(247, 247, 249);*/
+  margin-top: 25px;
+  margin-left: 80px;
+}
+
+.points{
+  display: flex;
+  margin-left: 0px;
+  margin-top: 30px;
+}
+
+a {
+  /*color:rgb(247, 247, 249);*/
+  color:black;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.pt-1, .pt-2, .pt-3, .need-heading{
+  /*color:rgb(247, 247, 249);*/
+  color: black;
+  margin-left: 80px;
+}
+
+.pt-2{
+  margin-top: -4px;
+}
+
+.pt-3{
+  margin-top: -10px;
+}
+
+
+.docs-need{
+  margin-top: 30px;
+}
+
+.doc1 { margin-top: 30px;  margin-left: 80px;
+}
+
+.doc2{ margin-top: 30px; margin-left: 199px;}
+
+.doc3{margin-top: 60px;margin-left: 80px;}
+
+.doc4{margin-top: 60px;margin-left: 300px;}
+
+  
+  .login {
+    background-color: white;
+    padding: 20px; /* Add padding to the container */
+    margin-top: 58px;
+    margin-bottom: 12px;
+    /*margin-left: auto;*/
+    margin-right: 57px;
+    border-radius: 15px;
+    border-color: black;
+    width: 350px;
+    align-items: center;
+  }
+  
+  
+  .form-label {
+    margin-bottom: 0px; /* decrease the margin-bottom */
+  }
+  
+  .form-control {
+    padding: 4px; /* decrease the padding */
+  }
+  
+  
+
+    
+    .active-link {
+      color: red;
+      font-weight:normal;
+      font-size: 12px;
+  }
